@@ -2,6 +2,8 @@
   "manifest_version": 2,
   "name": "PhishingDetection",
   "version": "0.1",
+  "author":"fraudsters",
+  "description":"This is an extension to detect malicious url to combat phishing",
   "icons": { 
         "16": "velocity.png",
         "48": "velocity.png",
