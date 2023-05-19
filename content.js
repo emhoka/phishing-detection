@@ -290,4 +290,3 @@ prediction = predict(testdata);
 chrome.extension.sendRequest(prediction);
 
 
-

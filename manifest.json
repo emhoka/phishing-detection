@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "PhishingDetection",
+  "name": "URL Phishing Detection",
   "version": "0.1",
   "icons": { 
         "16": "velocity.png",
